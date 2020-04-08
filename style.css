@@ -1,11 +1,12 @@
 * {
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
 
 /* General CSS */
 body {
     font-family: Arial, sans-serif;
-    color: #5f6368;
+    margin: 0;
+    padding: 0;
 }
 
 img {
@@ -14,26 +15,27 @@ img {
 }
 
 ul {
-    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 a {
-    color: inherit;
     text-decoration: none;
-}
-
-button {
     color: inherit;
 }
 
-input {
-    font-size: inherit;
-}
+/* .btn-grey {
+    background-color: #F1F1F1;
+    Padding: 0.6rem 0.9rem;
+    border-radius: 4px;
+} */
 
 
-.btn {
-    border: none;
-    font-size: inherit;
+/* Header */
+
+.grid-icon {
+    width: 1rem;
 }
 
 .btn-blue {
@@ -44,8 +46,22 @@ input {
     border-radius: 2px;
 }
 
-.btn-grey {
-    background-color: #F1F1F1;
-    Padding: 0.6rem 0.9rem;
-    border-radius: 4px;
+header {
+    margin: 1rem;
 }
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+}
+
+.header-nav ul {
+    display: flex;
+    align-items: center;
+}
+
+.header-nav ul li {
+    padding: 10px;
+}
+
