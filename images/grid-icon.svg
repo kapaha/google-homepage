@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="426" height="426" viewBox="0 0 426 426">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7e7c7c;
+      }
+    </style>
+  </defs>
+  <g id="grid-icon" transform="translate(-680 -305)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="122" height="122" transform="translate(680 305)"/>
+    <rect id="Rectangle_1-2" data-name="Rectangle 1" class="cls-1" width="122" height="122" transform="translate(832 305)"/>
+    <rect id="Rectangle_1-3" data-name="Rectangle 1" class="cls-1" width="122" height="122" transform="translate(984 305)"/>
+    <rect id="Rectangle_1-4" data-name="Rectangle 1" class="cls-1" width="122" height="122" transform="translate(680 457)"/>
+    <rect id="Rectangle_1-5" data-name="Rectangle 1" class="cls-1" width="122" height="122" transform="translate(832 457)"/>
+    <rect id="Rectangle_1-6" data-name="Rectangle 1" class="cls-1" width="122" height="122" transform="translate(984 457)"/>
+    <rect id="Rectangle_1-7" data-name="Rectangle 1" class="cls-1" width="122" height="122" transform="translate(680 609)"/>
+    <rect id="Rectangle_1-8" data-name="Rectangle 1" class="cls-1" width="122" height="122" transform="translate(832 609)"/>
+    <rect id="Rectangle_1-9" data-name="Rectangle 1" class="cls-1" width="122" height="122" transform="translate(984 609)"/>
+  </g>
+</svg>
